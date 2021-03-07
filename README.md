@@ -10,7 +10,7 @@ I don't code, I create bugs.
 
 - [x] ⁢⁣⁡I don't like Javascript at all.
 - [x] I hate bitcoin because I can't buy a decent graphics card in 2021.
-- [x] I don't trust decentralized service.
+- [x] I don't trust centralized service.
 - [x] Cantonese speaker.
 - [x] Loves isometric archviz.
 - [x] Dragon slayer.
