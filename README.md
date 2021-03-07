@@ -15,4 +15,4 @@ I don't code, I create bugs.
 - [x] Loves isometric archviz.
 - [x] Dragon slayer.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchome&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchome&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
