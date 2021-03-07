@@ -1,16 +1,18 @@
-### Hi there 👋
+# 😏 Well, nice to meet you :)
 
-<!--
-**mchome/mchome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=mchome&count_private=true&show_icons=true&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
 
-Here are some ideas to get you started:
+I'm a lazy copy-paste developer.  
+Don't trust the graph.  
+I don't code, I create bugs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 😄 Fun fact
+
+- [x] ⁢⁣⁡I don't like Javascript at all.
+- [x] I hate bitcoin because I can't buy a decent graphics card in 2021.
+- [x] I don't trust decentralized service.
+- [x] Cantonese speaker.
+- [x] Loves isometric archviz.
+- [x] Dragon slayer.
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchome&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
