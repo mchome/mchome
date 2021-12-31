@@ -1,6 +1,6 @@
 # 😏 Well, nice to meet you :)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=mchome&count_private=true&show_icons=true&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+<img align="right" src="https://bad-apple-github-readme.vercel.app/api?username=mchome&show_bg=1&count_private=true&show_icons=true&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
 
 I'm a lazy copy-paste developer.  
 Don't trust the graph.  
@@ -15,4 +15,4 @@ I don't code, I create bugs.
 - [x] Loves isometric archviz.
 - [x] Dragon slayer.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mchome&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
+<img src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=mchome&show_bg=1&title_color=ffaa22&icon_color=ffaa22&text_color=383838&bg_color=ffffff&hide_title=false&locale=en" />
